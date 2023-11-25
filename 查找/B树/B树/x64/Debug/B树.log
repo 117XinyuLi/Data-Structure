@@ -1,0 +1,50 @@
+﻿  test.cpp
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(151,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(150): message : 在编译 类 模板 成员函数“void BTree<int,int,3>::InsertKV(BTreeNode<K,V,3> *,const std::pair<K,V> &,BTreeNode<K,V,3> *)”时
+          with
+          [
+              K=int,
+              V=int
+          ]
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(86): message : 查看对正在编译的函数 模板 实例化“void BTree<int,int,3>::InsertKV(BTreeNode<K,V,3> *,const std::pair<K,V> &,BTreeNode<K,V,3> *)”的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(202): message : 查看对正在编译的 类 模板 实例化“BTree<int,int,3>”的引用
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(126,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(124): message : 在编译 类 模板 成员函数“BTreeNode<K,V,3> *BTree<K,V,3>::DivideNode(BTreeNode<K,V,3> *)”时
+          with
+          [
+              K=int,
+              V=int
+          ]
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(95): message : 查看对正在编译的函数 模板 实例化“BTreeNode<K,V,3> *BTree<K,V,3>::DivideNode(BTreeNode<K,V,3> *)”的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\utility(256,61): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(206): message : 查看对正在编译的函数 模板 实例化“std::pair<K,V>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\B树\BTree.hpp(206): message : 查看对正在编译的函数 模板 实例化“std::pair<K,V>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+  B树.vcxproj -> C:\Users\13151\Desktop\数据结构\大话数据结构\自己敲\B树\x64\Debug\B树.exe
