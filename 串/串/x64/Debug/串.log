@@ -1,0 +1,9 @@
+﻿  String.cpp
+D:\lxy\大学\大二\数据结构\自己敲\串\串\String.cpp(12,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\lxy\大学\大二\数据结构\自己敲\串\串\String.cpp(20,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\lxy\大学\大二\数据结构\自己敲\串\串\String.cpp(35,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\lxy\大学\大二\数据结构\自己敲\串\串\String.cpp(70,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\lxy\大学\大二\数据结构\自己敲\串\串\String.cpp(84,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\lxy\大学\大二\数据结构\自己敲\串\串\String.cpp(113,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+x64\Debug\String.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  串.vcxproj -> D:\lxy\大学\大二\数据结构\自己敲\串\x64\Debug\串.exe
